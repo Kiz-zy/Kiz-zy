@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Kizzy 👋
 
-<!--
-**Kiz-zy/Kiz-zy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一个正在认真打磨代码的计算机学习者,
+目标是成为优秀的软件工程师
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 作品集(精选项目)
+
+
+| 项目 | 一句话介绍 | 亮点 |
+|------|-----------|------|
+| [项目1 名称](仓库链接) | 做了什么 | 技术栈/解决什么问题 |
+
+
+## 📚 日常练习记录
+
+练习代码作为训练场放在 Gitee,见证每天的积累:
+
+- [我的 Gitee 练习仓库](https://gitee.com/kiz__zy/2026)
+
+## 🛠 技术栈
+
+
+## 📫 联系我
+
+- GitHub: [@Kiz-zy](https://github.com/Kiz-zy)
+- 邮箱: 
