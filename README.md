@@ -1,4 +1,4 @@
-# Hi there, I'm Kizzy 👋
+﻿# Hi there, I'm Kizzy 👋
 
 一个正在认真打磨代码的计算机学习者,
 目标是成为优秀的软件工程师
@@ -24,4 +24,4 @@
 ## 📫 联系我
 
 - GitHub: [@Kiz-zy](https://github.com/Kiz-zy)
-- 邮箱: 
+- 邮箱: 1543386363@qq.com
